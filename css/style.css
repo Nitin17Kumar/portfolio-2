@@ -1,0 +1,69 @@
+.back{
+	background-color: rgb(128, 255, 255);
+}
+
+.footer{
+	background-color: rgb(128, 255, 255);
+	margin:0px auto;
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+.but_r{
+    padding: 0px 0px 0px 980px;
+}
+body{
+    background-color: rgb(128, 255, 255);
+    border-color: white;
+    margin-top:2rem ;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+.card_col{
+    background-image: linear-gradient(to right bottom, #80ffff, #00d2fe, #00a1f9, #0069df, #6118a4);
+}
+hr{
+    color: white;
+}
+.head_card{
+    background-image: linear-gradient(to right bottom, #80ffff, #00d2fe, #00a1f9, #0069df, #6118a4);
+}
+.cent{
+    justify-content:center ;
+    align-items: center;
+    margin-left: 6rem;
+}
+.cen{
+    margin-top: 2rem;
+    margin-left: 16rem;
+
+}
+.card_shift{
+    margin-left: 10rem;
+}
+.photo{
+    min-height: 30px;
+    min-width: 20px;
+}
+.img_other{
+    height: 20rem;
+    width: 20rem;
+}
+.cenn{
+    text-align: left;
+    padding: 0px 0px 0px 30rem;
+}
+.text-color{
+    color: purple;
+}
+h1 h2 h3 h4 h5 h6{
+    font-style: ;
+}
