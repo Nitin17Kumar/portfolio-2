@@ -1,10 +1,12 @@
 .back{
-	background-color: rgb(128, 255, 255);
+	background-color: black;
+    color:rgb(128, 255, 255);
 }
 
 .footer{
-	background-color: rgb(128, 255, 255);
+	background-color: black;
 	margin:0px auto;
+    color:rgb(128, 255, 255);
 }
 .row-header{
     margin:0px auto;
@@ -20,7 +22,8 @@
     padding: 0px 0px 0px 980px;
 }
 body{
-    background-color: rgb(128, 255, 255);
+    background-color: black;
+    color:rgb(128, 255, 255);
     border-color: white;
     margin-top:2rem ;
     margin-left: 2rem;
@@ -28,13 +31,16 @@ body{
     margin-bottom: 2rem;
 }
 .card_col{
-    background-image: linear-gradient(to right bottom, #80ffff, #00d2fe, #00a1f9, #0069df, #6118a4);
+    background-color: black;
+    color:rgb(128, 255, 255);
+    border-color: rgb(128, 255, 255);
 }
 hr{
-    color: white;
+    color: rgb(128, 255, 255);
 }
 .head_card{
-    background-image: linear-gradient(to right bottom, #80ffff, #00d2fe, #00a1f9, #0069df, #6118a4);
+    background-color: black;
+    color:rgb(128, 255, 255);
 }
 .cent{
     justify-content:center ;
@@ -44,7 +50,9 @@ hr{
 .cen{
     margin-top: 2rem;
     margin-left: 16rem;
-
+}
+.cent{
+    margin-left: 18rem;
 }
 .card_shift{
     margin-left: 10rem;
@@ -57,13 +65,38 @@ hr{
     height: 20rem;
     width: 20rem;
 }
-.cenn{
-    text-align: left;
-    padding: 0px 0px 0px 30rem;
-}
+
 .text-color{
     color: purple;
 }
-h1 h2 h3 h4 h5 h6{
-    font-style: ;
+header{
+    height: 18rem;
+}
+.card_body{
+    height: 17rem;
+}
+.Services{
+    height: 15rem;
+    width: 10rem;
+}
+.card{
+    background-color: black;
+    border-color: rgb(128, 255, 255);
+}
+label{
+    color: rgb(128, 255, 255);
+}
+card-header {
+    background-color: black;
+    border-color: rgb(128, 255, 255);
+}
+
+.line-color{
+    border-color: white;
+}
+.card-header{
+    border-color: rgb(128, 255, 255);
+}
+#About_me{
+    border-color: rgb(128, 255, 255);
 }
