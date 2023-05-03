@@ -1,0 +1,103 @@
+.back{
+	background-color: black;
+    color:rgb(128, 255, 255);
+}
+
+.footer{
+	background-color: black;
+	margin:0px auto;
+    color:rgb(128, 255, 255);
+}
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+.but_r{
+    padding: 0px 0px 0px 980px;
+}
+body{
+    background-color: black;
+    color:rgb(128, 255, 255);
+    border-color: white;
+    margin-top:2rem ;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+.card_col{
+    background-color: black;
+    color:rgb(128, 255, 255);
+    border-color: rgb(128, 255, 255);
+}
+hr{
+    color: rgb(128, 255, 255);
+}
+.head_card{
+    background-color: black;
+    color:rgb(128, 255, 255);
+}
+.cent{
+    justify-content:center ;
+    align-items: center;
+    margin-left: 6rem;
+}
+.cen{
+    margin-top: 2rem;
+    margin-left: 16rem;
+}
+.cent{
+    margin-left: 18rem;
+}
+.card_shift{
+    margin-left: 10rem;
+}
+.photo{
+    min-height: 30px;
+    min-width: 20px;
+}
+.img_other{
+    height: 20rem;
+    width: 20rem;
+}
+
+.text-color{
+    color: purple;
+}
+header{
+    height: 18rem;
+}
+.card_body{
+    height: 17rem;
+}
+.Services{
+    height: 15rem;
+    width: 10rem;
+}
+.card{
+    background-color: black;
+    border-color: rgb(128, 255, 255);
+}
+label{
+    color: rgb(128, 255, 255);
+}
+card-header {
+    background-color: black;
+    border-color: rgb(128, 255, 255);
+}
+
+.line-color{
+    border-color: white;
+}
+.card-header{
+    border-color: rgb(128, 255, 255);
+}
+#About_me{
+    border-color: rgb(128, 255, 255);
+}
+@media and 
