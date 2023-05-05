@@ -18,7 +18,9 @@
     border-bottom: 1px ridge;
     min-height:400px;
 }
-
+.but_r{
+    padding: 0px 0px 0px 1280px;
+}
 body{
     background-color: black;
     color:rgb(128, 255, 255);
