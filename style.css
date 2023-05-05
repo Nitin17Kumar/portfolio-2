@@ -1,11 +1,11 @@
 .back{
-	background-color: black;
+    background-color: black;
     color:rgb(128, 255, 255);
 }
 
 .footer{
-	background-color: black;
-	margin:0px auto;
+    background-color: black;
+    margin:0px auto;
     color:rgb(128, 255, 255);
 }
 .row-header{
@@ -18,9 +18,7 @@
     border-bottom: 1px ridge;
     min-height:400px;
 }
-.but_r{
-    padding: 0px 0px 0px 980px;
-}
+
 body{
     background-color: black;
     color:rgb(128, 255, 255);
@@ -45,14 +43,10 @@ hr{
 .cent{
     justify-content:center ;
     align-items: center;
-    margin-left: 6rem;
 }
 .cen{
     margin-top: 2rem;
     margin-left: 16rem;
-}
-.cent{
-    margin-left: 18rem;
 }
 .card_shift{
     margin-left: 10rem;
@@ -62,8 +56,8 @@ hr{
     min-width: 20px;
 }
 .img_other{
-    height: 20rem;
-    width: 20rem;
+    height: 10rem;
+    width: 10rem;
 }
 
 .text-color{
@@ -99,4 +93,7 @@ card-header {
 }
 #About_me{
     border-color: rgb(128, 255, 255);
+}
+.mr-3, .mx-3 {
+    margin-right: 1rem!important;
 }
